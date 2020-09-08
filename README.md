@@ -6,6 +6,7 @@ Utility to convert between various proxy subscription formats.
 [![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/tindy2013/subconverter.svg)](https://github.com/tindy2013/subconverter/tags)
 [![GitHub release](https://img.shields.io/github/release/tindy2013/subconverter.svg)](https://github.com/tindy2013/subconverter/releases)
 [![GitHub license](https://img.shields.io/github/license/tindy2013/subconverter.svg)](https://github.com/tindy2013/subconverter/blob/master/LICENSE)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FModerRAS%2Fsubconverter.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FModerRAS%2Fsubconverter?ref=badge_shield)
 
 [Docker README](https://github.com/tindy2013/subconverter/blob/master/README-docker.md)
 
@@ -247,3 +248,7 @@ Example:
 ;uncomment the following line and enter your token to enable upload function
 token = xxxxxxxxxxxxxxxxxxxxxxxx(Your Personal Access Token)
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FModerRAS%2Fsubconverter.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FModerRAS%2Fsubconverter?ref=badge_large)
